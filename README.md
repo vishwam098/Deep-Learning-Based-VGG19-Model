@@ -1,0 +1,1 @@
+The ability to recognize gastroesophageal reflux disease (GERD) accurately at an early stage during an endoscopic procedure is difficult because of the subtle changes observed in the mucosa as well as the large amount of variability between observers. Artificial Intelligence (AI) has the capacity to allow for automated and consistent detection of this disease.
